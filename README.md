@@ -1,0 +1,2 @@
+# DAMI
+DataMinig Exercises 
